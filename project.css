@@ -1,0 +1,140 @@
+li
+{
+    list-style-type: none;
+    float: left;
+    padding: 4%;
+}
+#an:hover
+{
+    color: red;
+}
+#an{
+    text-decoration: none;
+    color: rgb(112, 84, 84);
+    font-weight: bold;
+}
+ul{
+    padding-left: 15%;
+    padding-top: 1%;
+}
+#back
+{
+    margin-left: 15%;
+}
+#hari
+{
+   color: blueviolet;
+   position: absolute;
+   left: 14.9%;
+   top: 5.9%;
+}
+#a
+{
+    position: absolute;
+    left: 16.5%;
+}
+#back
+{
+    border: 0px solid black;
+}
+img
+{
+    height: 10cm;
+    width: 10cm;
+}
+#img1
+{
+    margin-left: 60%;
+    padding-top: 7%;
+}
+#talk
+{
+    position: absolute;
+    top: 7.8%;
+    left: 1350px;
+}
+#talk1
+{
+   border: 1px solid white;
+   height: 3cm;
+   width: 3cm;
+}
+#talk1:hover{
+    color: brown;
+}
+#about
+{
+   position: absolute;
+   top: 30%;
+   left: 15%;
+}
+#b
+{
+    height: 30px;
+    width: 3cm;
+    margin-top: 5%;
+    border: 2px solid rgb(167, 120, 120);
+    border-radius: 4px;
+    background-color:rgb(134, 118, 149);
+    border-radius: 4px;
+}
+#lets
+{
+    height: 30px;
+    width: 3cm;
+    margin-top: 5%;
+    border: 1px solid white;
+    border-radius: 4px;
+    background-color:blueviolet;
+    color: white;
+}
+#b:hover{
+    background-color: cadetblue;
+}
+#b1:hover{
+   background-color: rgb(103, 123, 123);
+}
+#b1
+{
+    height: 30px;
+    width: 4cm;
+    margin-top: 5%;
+    margin-left: 2%;
+    border: 2px solid rgb(167, 120, 120);
+    border-radius: 4px;
+}
+#ann
+{
+    text-decoration: none;
+}
+hr
+{
+    margin-top: 2%;
+    box-shadow: 0 5px 10px 1px;
+}
+#icon
+{
+    margin-top: 1%;
+    display: flex;
+    column-gap: 1%;
+}
+#d
+{
+    height: 1cm;
+    width: 1cm;
+}
+#d1
+{
+    height: 1cm;
+    width: 1cm;
+}
+#d2
+{
+    height: 1cm;
+    width: 1cm;
+}
+#mail
+{
+    text-decoration: none;
+    color: blue;
+}

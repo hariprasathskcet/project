@@ -1,0 +1,12 @@
+#flex
+{
+    background-color: aqua;
+    display: flex;
+    column-gap: 10%;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#img
+{
+    margin-left: 20%;
+}

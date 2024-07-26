@@ -1,0 +1,13 @@
+#id
+{
+    margin-left: 30%;
+    display: flex;
+    column-gap: 4%;
+    text-decoration: none;
+    list-style-type: none;
+}
+.skills
+{
+    background-color: rgb(200, 247, 232);
+    height: 6cm;
+}
